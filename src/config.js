@@ -49,7 +49,7 @@ export const DEFAULT_FEATURES_CONFIG = {
   needToWaitToProceed: false,
   needToWaitToProceedConfig: {
     delayOffset: ms('1h'),
-    wait: ms('10s'),
+    wait: ms('0s'),
   },
   isServiceProxyEnabled: false,
   isServiceProxyPremiumFeature: true,
