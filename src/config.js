@@ -34,7 +34,7 @@ export const DEFAULT_FEATURES_CONFIG = {
   needToWaitToProceed: false,
   needToWaitToProceedConfig: {
     delayOffset: 3600000,
-    wait: 10000,
+    wait: 0,
   },
   isServiceProxyEnabled: false,
   isServiceProxyPremiumFeature: true,
